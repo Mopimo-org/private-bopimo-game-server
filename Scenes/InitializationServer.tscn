@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dvs5dwpojlsli"]
+
+[ext_resource type="Script" uid="uid://vcuc21fn8ky6" path="res://Scripts/Initialization.cs" id="1_sw3jv"]
+
+[node name="InitializationServer" type="Node"]
+script = ExtResource("1_sw3jv")
